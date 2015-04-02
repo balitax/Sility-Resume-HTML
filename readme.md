@@ -25,6 +25,15 @@
 
 ### Colors
 ![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/color.jpg)
+***
+## Screenshots
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image1.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image2.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image3.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image4.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image5.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image6.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image7.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image8.png)
+![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image9.png)
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
