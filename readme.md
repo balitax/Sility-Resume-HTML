@@ -28,7 +28,7 @@
 
 ## Change Log
 *02 April 2015*
-	> Initial Release
+> Initial Release
 ***
 ## Screenshots
 ![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/image1.png)
