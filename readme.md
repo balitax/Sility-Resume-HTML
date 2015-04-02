@@ -1,5 +1,6 @@
 # Sility - vCard, CV & Resume HTML Template
-http://webtechfreaky.github.io/Sility-Resume-HTML
+**For Demo** : http://webtechfreaky.github.io/Sility-Resume-HTML
+
 ![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/preview.jpg)
 
 ***
