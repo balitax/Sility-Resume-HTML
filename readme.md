@@ -22,6 +22,7 @@
 - Error 404 Page
 - Google Web Fonts
 - 10 HTML Pages
+
 ---
 ### Colors
 ![Image](https://raw.githubusercontent.com/webtechfreaky/Sility-Resume-HTML/master/color.jpg)
